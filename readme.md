@@ -1,33 +1,6 @@
-
 # Project Title
 
-A brief description of what this project does and who it's for
-
-
-
-## Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
-
-
-
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
-
-
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
+WorldTime is a news app which is created to show the latest headlines. I have used newsdataio's API for getting the news and also used openweathermap's API for getting the current temprature of user's location. 
 
 
 ## Tech Stack
@@ -39,10 +12,9 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Running the code
 
-This app provides individual sample code for CRUD operations for various QBO entities.
-Each PHP file can be run individually.
+This app provides latest news hedlines to the user.
 
-Steps described below is to run the PHP file for creating a customer.
+Steps described below is to run the PHP file locally in your computer.
 
 1. Install Xampp Control Panel.
 2. Open Xampp and run Apache server.
@@ -52,15 +24,14 @@ Steps described below is to run the PHP file for creating a customer.
 ## Installation
 
 Install xampp 
+PHP Version 8 or above is recommended
 
-```bash
-  npm install my-project
-  cd my-project
-```
-    
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/parag477/php-news-api-app/blob/master/LICENSE)
 
 
+## Author
+
+- [@parag477](https://www.github.com/parag477)
