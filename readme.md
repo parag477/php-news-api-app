@@ -1,4 +1,4 @@
-# Project Title
+# WorldTime
 
 WorldTime is a news app which is created to show the latest headlines. I have used newsdataio's API for getting the news and also used openweathermap's API for getting the current temprature of user's location. 
 
